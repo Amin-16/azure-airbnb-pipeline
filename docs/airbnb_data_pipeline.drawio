@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="1V4Y4LPP4ziyapLrlhcN">
+    <mxGraphModel dx="1030" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wTe99zHB1yj-5KXQJG75-25" edge="1" parent="1" source="wTe99zHB1yj-5KXQJG75-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wTe99zHB1yj-5KXQJG75-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-20" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/tabler-outline/1/Brand_Airbnb.svg;fillColor=default;fontSize=12;fontStyle=1;fontFamily=Comic Sans MS;" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="20" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=1;fontFamily=Comic Sans MS;" value="Airbnb Data Source" vertex="1">
+          <mxGeometry height="30" width="60" x="14" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-36" edge="1" parent="1" source="wTe99zHB1yj-5KXQJG75-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="wTe99zHB1yj-5KXQJG75-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-22" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/azure/1/Azure_Data_Factory.svg" value="" vertex="1">
+          <mxGeometry height="59" width="59" x="90" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=1;fontFamily=Comic Sans MS;" value="Azure Data Factory" vertex="1">
+          <mxGeometry height="30" width="70" x="84.5" y="289" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="180" width="380" x="154.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-39" edge="1" parent="1" source="wTe99zHB1yj-5KXQJG75-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFF00;" target="wTe99zHB1yj-5KXQJG75-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-27" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#fff2cc;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/SystemUI_Vol_1-2335/database-1271.svg;labelBorderColor=#d6b656;imageBackground=none;imageBorder=light-dark(#FF8000,#EDEDED);strokeWidth=2;fillStyle=solid;rounded=1;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="185" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-54" edge="1" parent="1" source="wTe99zHB1yj-5KXQJG75-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#CCCCCC;" target="wTe99zHB1yj-5KXQJG75-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-29" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#fff2cc;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/SystemUI_Vol_1-2335/database-1271.svg;labelBorderColor=#d6b656;imageBackground=none;imageBorder=light-dark(#999999,#EDEDED);strokeWidth=2;fillStyle=solid;rounded=1;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="314.5" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-30" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#fff2cc;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/SystemUI_Vol_1-2335/database-1271.svg;labelBorderColor=#d6b656;imageBackground=none;imageBorder=light-dark(#FFFF33,#EDEDED);strokeWidth=2;fillStyle=dots;rounded=1;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="430" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=1;fontFamily=Comic Sans MS;imageBorder=#FF8000;" value="&lt;span style=&quot;color: rgb(255, 128, 0);&quot;&gt;Bronze&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="180" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=1;fontFamily=Comic Sans MS;" value="&lt;span style=&quot;color: rgb(95, 95, 95);&quot;&gt;Silver&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="309.5" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=1;fontFamily=Comic Sans MS;" value="&lt;span style=&quot;color: rgb(255, 255, 0);&quot;&gt;Gold&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="425" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-34" edge="1" parent="1" source="wTe99zHB1yj-5KXQJG75-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="wTe99zHB1yj-5KXQJG75-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-37" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;imageBackground=default;shadow=0;" value="" vertex="1">
+          <mxGeometry height="58" width="53.56" x="495" y="172" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=1;fontFamily=Comic Sans MS;" value="Databricks" vertex="1">
+          <mxGeometry height="30" width="70" x="486.78" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-41" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/azure/1/Data_Lake.svg;shadow=1;" value="" vertex="1">
+          <mxGeometry height="60" width="46.08" x="138.92" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=1;fontFamily=Comic Sans MS;" value="Azure data lake Gen2 Storage" vertex="1">
+          <mxGeometry height="30" width="113.04" x="105.44" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-49" edge="1" parent="1" source="wTe99zHB1yj-5KXQJG75-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wTe99zHB1yj-5KXQJG75-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-45" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;" value="" vertex="1">
+          <mxGeometry height="69" width="60" x="600" y="86" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-47" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" value="" vertex="1">
+          <mxGeometry height="68" width="51" x="740" y="86" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-48" edge="1" parent="1" source="wTe99zHB1yj-5KXQJG75-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;" target="wTe99zHB1yj-5KXQJG75-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-51" parent="1" style="whiteSpace=wrap;html=1;perimeterSpacing=6;rounded=1;shadow=1;" value="&lt;div class=&quot;QzGOQd&quot; data-sfc-root=&quot;ep&quot; data-copy-service-computed-style=&quot;font-family: Arial, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);&quot; style=&quot;font-family: Arial, sans-serif; font-size: 16px; margin: 0px; border-bottom: 0px rgb(10, 10, 10);&quot;&gt;&lt;div class=&quot;PwvzCf WEeWWe&quot; style=&quot;margin: 0px 16px 0px 0px; border-bottom: 0px rgb(10, 10, 10);&quot; data-sfc-root=&quot;ep&quot; data-wiz-uids=&quot;G2yBCf_a,G2yBCf_b&quot; data-subtree=&quot;aimfl,mfl&quot; data-sfc-inited=&quot;2&quot; data-copy-service-computed-style=&quot;font-family: Arial, sans-serif; font-size: 16px; font-weight: 400; margin: 0px 16px 0px 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);&quot;&gt;&lt;div id=&quot;ic-e_gWrYrWVmiw6M&quot; role=&quot;button&quot; class=&quot;QwWKjd&quot; tabindex=&quot;0&quot; data-visible=&quot;1&quot; data-ved=&quot;2ahUKEwi1vqPb1viVAxUTAfsDHQpFOikQn7IPegoIAggACAAIAhAD&quot; data-sve=&quot;&quot; data-ssid=&quot;svim&quot; data-ep-type=&quot;src&quot; data-sv-cpt=&quot;4&quot; data-im=&quot;[0,&amp;quot;e_gWrYrWVmiw6M&amp;quot;,[&amp;quot;https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5E1T2KacawPHCMKQpUaRttI91HlS1amRMgLI0VpEJvqgLANTg&amp;quot;,141,357],[&amp;quot;https://www.kevinrchant.com/wp-content/uploads/2024/05/Typical-medallion-architecture-4.jpg&amp;quot;,475,1197],{&amp;quot;35&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;2003&amp;quot;:[null,&amp;quot;Rkn6RRZ_m28wHM&amp;quot;,&amp;quot;https://www.kevinrchant.com/2024/05/03/the-great-number-of-workspaces-for-medallion-architecture-in-microsoft-fabric-debate/&amp;quot;,&amp;quot;The great \&amp;quot;number of workspaces for medallion architecture in ...&amp;quot;,null,null,null,null,null,null,null,null,&amp;quot;www.kevinrchant.com&amp;quot;,null,null,null,null,&amp;quot;www.kevinrchant.com&amp;quot;]}]&quot; data-copy-service-computed-style=&quot;font-family: Arial, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);&quot; style=&quot;margin: 0px; border-bottom: 0px rgb(10, 10, 10);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;Medallion Architecture&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="190" x="240" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=1;fontFamily=Comic Sans MS;" value="Azure Synapse Analytics" vertex="1">
+          <mxGeometry height="30" width="70" x="595" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wTe99zHB1yj-5KXQJG75-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=1;fontFamily=Comic Sans MS;" value="Power BI" vertex="1">
+          <mxGeometry height="30" width="70" x="730.5" y="155" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
