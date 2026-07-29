@@ -30,15 +30,17 @@ A medallion architecture data platform on Azure: ingesting multi-city Airbnb lis
 
 ## What this project demonstrates
 
-![ADF diagram](adf/adf_pipeline.png)
 **Azure Data Factory**
+
+![ADF diagram](adf/adf_pipeline.png)
 
 - Parameterized, folder-driven validation of source data before triggering downstream processing
 - Orchestration of a Databricks Job (not just a single notebook) via the Databricks Job activity
 - Failure-branch alerting via a Web Activity
 
 **Azure Databricks / Apache Spark**
-![Data model diagram]
+
+![Job Run](docs/spark_job_run.png)
 
 - Medallion architecture (Bronze → Silver → Gold) using PySpark and Delta Lake
 - Schema validation and data-quality flagging at the Bronze layer
